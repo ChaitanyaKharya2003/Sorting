@@ -32,7 +32,7 @@ public class BubbleSort {
 			arr[i] = sc.nextInt();  
 		}
 		bubbleSort(arr);
-        System.out.println("Array a4fter bubble sort");  
+        System.out.println("Array after bubble sort");  
 		for(int i=0; i < arr.length; i++){  
 			System.out.print(arr[i] + " ");  
 		}  
